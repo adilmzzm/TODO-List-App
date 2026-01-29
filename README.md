@@ -4,11 +4,11 @@
 <p>
 The TODO List App stores user's daily tasks using graphical user interface.It uses the localStorage API to store tasks.It features adding category to tasks for distinguishment.
 </p>
-<h2 style="margin:0px;">✦Features</h2>
+<h2 style="margin:0px;">✦ Features</h2>
 <i>◉ Responsive Web Design</i>
   <br>
 <i>◉ Graphical User Interface</i>
-<h2>✦Technologies Used</h2>
+<h2>✦ Technologies Used</h2>
 <i>◉ JavaScript</i><br>
 <i>◉ HTML</i><br>
 <i>◉ CSS</i><br>
@@ -17,6 +17,9 @@ The TODO List App stores user's daily tasks using graphical user interface.It us
 <i>◉ Webpack</i><br>
 <i>◉ Babel</i><br>
 <i>◉ Jquery</i><br>
+<h2 style="margin:0px;">➤    Resources Used</h2>
+<p>✦ Icons used are from -> <a href="https://icons.getbootstrap.com/">Bootstrap Icons</a></p>
+<p>✦ Logo of the site generated from <a href="https://leonardo.ai/">Leonardo ai</a></p>
 
 
 
